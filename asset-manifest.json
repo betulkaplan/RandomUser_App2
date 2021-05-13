@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/RandomUser_App2/static/css/main.23d959a3.chunk.css",
-    "main.js": "/RandomUser_App2/static/js/main.7914ac22.chunk.js",
-    "main.js.map": "/RandomUser_App2/static/js/main.7914ac22.chunk.js.map",
-    "runtime-main.js": "/RandomUser_App2/static/js/runtime-main.5106bbd4.js",
-    "runtime-main.js.map": "/RandomUser_App2/static/js/runtime-main.5106bbd4.js.map",
-    "static/js/2.7dbfbd76.chunk.js": "/RandomUser_App2/static/js/2.7dbfbd76.chunk.js",
-    "static/js/2.7dbfbd76.chunk.js.map": "/RandomUser_App2/static/js/2.7dbfbd76.chunk.js.map",
-    "static/js/3.9fd5b480.chunk.js": "/RandomUser_App2/static/js/3.9fd5b480.chunk.js",
-    "static/js/3.9fd5b480.chunk.js.map": "/RandomUser_App2/static/js/3.9fd5b480.chunk.js.map",
+    "main.css": "/RandomUser_App2/static/css/main.6e1e5597.chunk.css",
+    "main.js": "/RandomUser_App2/static/js/main.497b803d.chunk.js",
+    "main.js.map": "/RandomUser_App2/static/js/main.497b803d.chunk.js.map",
+    "runtime-main.js": "/RandomUser_App2/static/js/runtime-main.de3366bc.js",
+    "runtime-main.js.map": "/RandomUser_App2/static/js/runtime-main.de3366bc.js.map",
+    "static/js/2.080da2ad.chunk.js": "/RandomUser_App2/static/js/2.080da2ad.chunk.js",
+    "static/js/2.080da2ad.chunk.js.map": "/RandomUser_App2/static/js/2.080da2ad.chunk.js.map",
+    "static/js/3.1b387191.chunk.js": "/RandomUser_App2/static/js/3.1b387191.chunk.js",
+    "static/js/3.1b387191.chunk.js.map": "/RandomUser_App2/static/js/3.1b387191.chunk.js.map",
     "index.html": "/RandomUser_App2/index.html",
-    "static/css/main.23d959a3.chunk.css.map": "/RandomUser_App2/static/css/main.23d959a3.chunk.css.map",
-    "static/js/2.7dbfbd76.chunk.js.LICENSE.txt": "/RandomUser_App2/static/js/2.7dbfbd76.chunk.js.LICENSE.txt",
+    "static/css/main.6e1e5597.chunk.css.map": "/RandomUser_App2/static/css/main.6e1e5597.chunk.css.map",
+    "static/js/2.080da2ad.chunk.js.LICENSE.txt": "/RandomUser_App2/static/js/2.080da2ad.chunk.js.LICENSE.txt",
     "static/media/cw.22310668.svg": "/RandomUser_App2/static/media/cw.22310668.svg",
     "static/media/growing-up-woman.a1585842.svg": "/RandomUser_App2/static/media/growing-up-woman.a1585842.svg",
     "static/media/mail.42e0750e.svg": "/RandomUser_App2/static/media/mail.42e0750e.svg",
@@ -21,9 +21,9 @@
     "static/media/phone.d017e1ae.svg": "/RandomUser_App2/static/media/phone.d017e1ae.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5106bbd4.js",
-    "static/js/2.7dbfbd76.chunk.js",
-    "static/css/main.23d959a3.chunk.css",
-    "static/js/main.7914ac22.chunk.js"
+    "static/js/runtime-main.de3366bc.js",
+    "static/js/2.080da2ad.chunk.js",
+    "static/css/main.6e1e5597.chunk.css",
+    "static/js/main.497b803d.chunk.js"
   ]
 }
